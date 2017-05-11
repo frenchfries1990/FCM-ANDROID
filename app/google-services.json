@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653896993770",
+    "firebase_url": "https://gcmtest-e8935.firebaseio.com",
+    "project_id": "gcmtest-e8935",
+    "storage_bucket": "gcmtest-e8935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653896993770:android:155d25c684f9111a",
+        "android_client_info": {
+          "package_name": "com.lonedeveloper.gcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653896993770-acvag9jsqcpheu4lspfsck3mubhf3srj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGI4qO1c9QJe-SHfkVS4Zv9Jl3E-h5KnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
